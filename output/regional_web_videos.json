@@ -1,0 +1,701 @@
+{
+  "base_url": "https://www.regionalwebtv.com/fredcc",
+  "medias": [
+    {
+      "url": "https://www.youtube.com/watch?v=P3TDzZ0QE_A",
+      "title": "Fredericksburg City Council 9 27 16",
+      "date": "2016-09-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uG6266iyrI",
+      "title": "Fredericksburg City Council 1 13 2016",
+      "date": "2016-01-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dNF7p2_yfEQ",
+      "title": "Fredericksburg City Council 5 11 2016",
+      "date": "2016-05-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kmWMv8uyeoY",
+      "title": "Fredericksburg City Council 4 19 2016",
+      "date": "2016-04-19",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4c4-nf_8XPQ",
+      "title": "Fredericksburg City Council 02 23 16",
+      "date": "2016-02-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nb5qpgkRbUE",
+      "title": "Fredericksburg City Council 4 26 16",
+      "date": "2016-04-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dVWIOT4ZPmU",
+      "title": "Fredericksburg City Council 9 13 16",
+      "date": "2016-09-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MjpHzebbqAY",
+      "title": "Fredericksburg City Council 7 12 16",
+      "date": "2016-07-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gv-KTwpMvZs",
+      "title": "Fredericksburg City Council 4 12 2016",
+      "date": "2016-04-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-Ion44EeyJ8",
+      "title": "Fredericksburg City Council 5 23 17",
+      "date": "2017-05-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yTd5ksEteQM",
+      "title": "Fredericksburg City Council 8 8 17",
+      "date": "2017-08-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wIMoDmVLiCA",
+      "title": "Fredericksburg City Council 12 12 17",
+      "date": "2017-12-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fqNERguGRTM",
+      "title": "Fredericksburg City Council 6 27 17",
+      "date": "2017-06-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pgnU7G64wu4",
+      "title": "Fredericksburg City Council 11 28 17",
+      "date": "2017-11-28",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UTV-Vf7O0gE",
+      "title": "Fredericksburg City Council 7 11 17",
+      "date": "2017-07-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RdhbNVPCpeM",
+      "title": "Fredericksburg City Council 9 26 17",
+      "date": "2017-09-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h3iu1TzpQDU",
+      "title": "Fredericksburg City Council 5 9 17",
+      "date": "2017-05-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DtAjYU-uYEA",
+      "title": "Fredericksburg City Council 10 10 17",
+      "date": "2017-10-10",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n4CQo9dX80o",
+      "title": "Fredericksburg City Council 11 14 17",
+      "date": "2017-11-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S41O8V7RJ2Y",
+      "title": "Fredericksburg City Council 3 27 18",
+      "date": "2018-03-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UuVarLgWovY",
+      "title": "Fredericksburg City Council 4 17 18",
+      "date": "2018-04-17",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jaragy9KqkU",
+      "title": "Fredericksburg City Council 10 9 18",
+      "date": "2018-10-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZyKMxeIkDj8",
+      "title": "Fredericksburg City Council 5 22 18",
+      "date": "2018-05-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OLA7h_1E99g",
+      "title": "Fredericksburg City Council 2 13 18",
+      "date": "2018-02-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eh3PDkw15o8",
+      "title": "Fredericksburg City Council 10 23 18",
+      "date": "2018-10-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KnKuficHKME",
+      "title": "Fredericksburg City Council 6 26 18",
+      "date": "2018-06-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m53-t2fNHnQ",
+      "title": "Fredericksburg City Council 11 13 18",
+      "date": "2018-11-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iowe1OPVwHk",
+      "title": "Fredericksburg City Council 12 11 18",
+      "date": "2018-12-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Mf9iL71BvrU",
+      "title": "Fredericksburg City Council 11 27 18",
+      "date": "2018-11-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P3TDzZ0QE_A",
+      "title": "Fredericksburg City Council 9 27 16",
+      "date": "2016-09-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uG6266iyrI",
+      "title": "Fredericksburg City Council 1 13 2016",
+      "date": "2016-01-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dNF7p2_yfEQ",
+      "title": "Fredericksburg City Council 5 11 2016",
+      "date": "2016-05-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kmWMv8uyeoY",
+      "title": "Fredericksburg City Council 4 19 2016",
+      "date": "2016-04-19",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4c4-nf_8XPQ",
+      "title": "Fredericksburg City Council 02 23 16",
+      "date": "2016-02-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nb5qpgkRbUE",
+      "title": "Fredericksburg City Council 4 26 16",
+      "date": "2016-04-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dVWIOT4ZPmU",
+      "title": "Fredericksburg City Council 9 13 16",
+      "date": "2016-09-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MjpHzebbqAY",
+      "title": "Fredericksburg City Council 7 12 16",
+      "date": "2016-07-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gv-KTwpMvZs",
+      "title": "Fredericksburg City Council 4 12 2016",
+      "date": "2016-04-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-Ion44EeyJ8",
+      "title": "Fredericksburg City Council 5 23 17",
+      "date": "2017-05-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yTd5ksEteQM",
+      "title": "Fredericksburg City Council 8 8 17",
+      "date": "2017-08-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wIMoDmVLiCA",
+      "title": "Fredericksburg City Council 12 12 17",
+      "date": "2017-12-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fqNERguGRTM",
+      "title": "Fredericksburg City Council 6 27 17",
+      "date": "2017-06-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pgnU7G64wu4",
+      "title": "Fredericksburg City Council 11 28 17",
+      "date": "2017-11-28",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UTV-Vf7O0gE",
+      "title": "Fredericksburg City Council 7 11 17",
+      "date": "2017-07-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RdhbNVPCpeM",
+      "title": "Fredericksburg City Council 9 26 17",
+      "date": "2017-09-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h3iu1TzpQDU",
+      "title": "Fredericksburg City Council 5 9 17",
+      "date": "2017-05-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DtAjYU-uYEA",
+      "title": "Fredericksburg City Council 10 10 17",
+      "date": "2017-10-10",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n4CQo9dX80o",
+      "title": "Fredericksburg City Council 11 14 17",
+      "date": "2017-11-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S41O8V7RJ2Y",
+      "title": "Fredericksburg City Council 3 27 18",
+      "date": "2018-03-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UuVarLgWovY",
+      "title": "Fredericksburg City Council 4 17 18",
+      "date": "2018-04-17",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jaragy9KqkU",
+      "title": "Fredericksburg City Council 10 9 18",
+      "date": "2018-10-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZyKMxeIkDj8",
+      "title": "Fredericksburg City Council 5 22 18",
+      "date": "2018-05-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OLA7h_1E99g",
+      "title": "Fredericksburg City Council 2 13 18",
+      "date": "2018-02-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eh3PDkw15o8",
+      "title": "Fredericksburg City Council 10 23 18",
+      "date": "2018-10-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KnKuficHKME",
+      "title": "Fredericksburg City Council 6 26 18",
+      "date": "2018-06-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m53-t2fNHnQ",
+      "title": "Fredericksburg City Council 11 13 18",
+      "date": "2018-11-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iowe1OPVwHk",
+      "title": "Fredericksburg City Council 12 11 18",
+      "date": "2018-12-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Mf9iL71BvrU",
+      "title": "Fredericksburg City Council 11 27 18",
+      "date": "2018-11-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P3TDzZ0QE_A",
+      "title": "Fredericksburg City Council 9 27 16",
+      "date": "2016-09-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uG6266iyrI",
+      "title": "Fredericksburg City Council 1 13 2016",
+      "date": "2016-01-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dNF7p2_yfEQ",
+      "title": "Fredericksburg City Council 5 11 2016",
+      "date": "2016-05-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kmWMv8uyeoY",
+      "title": "Fredericksburg City Council 4 19 2016",
+      "date": "2016-04-19",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4c4-nf_8XPQ",
+      "title": "Fredericksburg City Council 02 23 16",
+      "date": "2016-02-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nb5qpgkRbUE",
+      "title": "Fredericksburg City Council 4 26 16",
+      "date": "2016-04-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dVWIOT4ZPmU",
+      "title": "Fredericksburg City Council 9 13 16",
+      "date": "2016-09-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MjpHzebbqAY",
+      "title": "Fredericksburg City Council 7 12 16",
+      "date": "2016-07-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gv-KTwpMvZs",
+      "title": "Fredericksburg City Council 4 12 2016",
+      "date": "2016-04-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-Ion44EeyJ8",
+      "title": "Fredericksburg City Council 5 23 17",
+      "date": "2017-05-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yTd5ksEteQM",
+      "title": "Fredericksburg City Council 8 8 17",
+      "date": "2017-08-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wIMoDmVLiCA",
+      "title": "Fredericksburg City Council 12 12 17",
+      "date": "2017-12-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fqNERguGRTM",
+      "title": "Fredericksburg City Council 6 27 17",
+      "date": "2017-06-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pgnU7G64wu4",
+      "title": "Fredericksburg City Council 11 28 17",
+      "date": "2017-11-28",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UTV-Vf7O0gE",
+      "title": "Fredericksburg City Council 7 11 17",
+      "date": "2017-07-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RdhbNVPCpeM",
+      "title": "Fredericksburg City Council 9 26 17",
+      "date": "2017-09-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h3iu1TzpQDU",
+      "title": "Fredericksburg City Council 5 9 17",
+      "date": "2017-05-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DtAjYU-uYEA",
+      "title": "Fredericksburg City Council 10 10 17",
+      "date": "2017-10-10",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n4CQo9dX80o",
+      "title": "Fredericksburg City Council 11 14 17",
+      "date": "2017-11-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S41O8V7RJ2Y",
+      "title": "Fredericksburg City Council 3 27 18",
+      "date": "2018-03-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UuVarLgWovY",
+      "title": "Fredericksburg City Council 4 17 18",
+      "date": "2018-04-17",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jaragy9KqkU",
+      "title": "Fredericksburg City Council 10 9 18",
+      "date": "2018-10-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZyKMxeIkDj8",
+      "title": "Fredericksburg City Council 5 22 18",
+      "date": "2018-05-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OLA7h_1E99g",
+      "title": "Fredericksburg City Council 2 13 18",
+      "date": "2018-02-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eh3PDkw15o8",
+      "title": "Fredericksburg City Council 10 23 18",
+      "date": "2018-10-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KnKuficHKME",
+      "title": "Fredericksburg City Council 6 26 18",
+      "date": "2018-06-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m53-t2fNHnQ",
+      "title": "Fredericksburg City Council 11 13 18",
+      "date": "2018-11-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iowe1OPVwHk",
+      "title": "Fredericksburg City Council 12 11 18",
+      "date": "2018-12-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Mf9iL71BvrU",
+      "title": "Fredericksburg City Council 11 27 18",
+      "date": "2018-11-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P3TDzZ0QE_A",
+      "title": "Fredericksburg City Council 9 27 16",
+      "date": "2016-09-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uG6266iyrI",
+      "title": "Fredericksburg City Council 1 13 2016",
+      "date": "2016-01-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dNF7p2_yfEQ",
+      "title": "Fredericksburg City Council 5 11 2016",
+      "date": "2016-05-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kmWMv8uyeoY",
+      "title": "Fredericksburg City Council 4 19 2016",
+      "date": "2016-04-19",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4c4-nf_8XPQ",
+      "title": "Fredericksburg City Council 02 23 16",
+      "date": "2016-02-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nb5qpgkRbUE",
+      "title": "Fredericksburg City Council 4 26 16",
+      "date": "2016-04-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dVWIOT4ZPmU",
+      "title": "Fredericksburg City Council 9 13 16",
+      "date": "2016-09-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MjpHzebbqAY",
+      "title": "Fredericksburg City Council 7 12 16",
+      "date": "2016-07-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gv-KTwpMvZs",
+      "title": "Fredericksburg City Council 4 12 2016",
+      "date": "2016-04-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-Ion44EeyJ8",
+      "title": "Fredericksburg City Council 5 23 17",
+      "date": "2017-05-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yTd5ksEteQM",
+      "title": "Fredericksburg City Council 8 8 17",
+      "date": "2017-08-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wIMoDmVLiCA",
+      "title": "Fredericksburg City Council 12 12 17",
+      "date": "2017-12-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fqNERguGRTM",
+      "title": "Fredericksburg City Council 6 27 17",
+      "date": "2017-06-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pgnU7G64wu4",
+      "title": "Fredericksburg City Council 11 28 17",
+      "date": "2017-11-28",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UTV-Vf7O0gE",
+      "title": "Fredericksburg City Council 7 11 17",
+      "date": "2017-07-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RdhbNVPCpeM",
+      "title": "Fredericksburg City Council 9 26 17",
+      "date": "2017-09-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h3iu1TzpQDU",
+      "title": "Fredericksburg City Council 5 9 17",
+      "date": "2017-05-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DtAjYU-uYEA",
+      "title": "Fredericksburg City Council 10 10 17",
+      "date": "2017-10-10",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n4CQo9dX80o",
+      "title": "Fredericksburg City Council 11 14 17",
+      "date": "2017-11-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S41O8V7RJ2Y",
+      "title": "Fredericksburg City Council 3 27 18",
+      "date": "2018-03-27",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UuVarLgWovY",
+      "title": "Fredericksburg City Council 4 17 18",
+      "date": "2018-04-17",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jaragy9KqkU",
+      "title": "Fredericksburg City Council 10 9 18",
+      "date": "2018-10-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZyKMxeIkDj8",
+      "title": "Fredericksburg City Council 5 22 18",
+      "date": "2018-05-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OLA7h_1E99g",
+      "title": "Fredericksburg City Council 2 13 18",
+      "date": "2018-02-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eh3PDkw15o8",
+      "title": "Fredericksburg City Council 10 23 18",
+      "date": "2018-10-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KnKuficHKME",
+      "title": "Fredericksburg City Council 6 26 18",
+      "date": "2018-06-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m53-t2fNHnQ",
+      "title": "Fredericksburg City Council 11 13 18",
+      "date": "2018-11-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iowe1OPVwHk",
+      "title": "Fredericksburg City Council 12 11 18",
+      "date": "2018-12-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Mf9iL71BvrU",
+      "title": "Fredericksburg City Council 11 27 18",
+      "date": "2018-11-27",
+      "source_type": "video"
+    }
+  ]
+}

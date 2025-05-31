@@ -1,0 +1,142 @@
+"""
+Scraper for https://winchesterva.civicweb.net/portal/
+"""
+import asyncio
+from typing import List, Dict
+from playwright.async_api import async_playwright, Page
+
+async def scrape_winchester(url: str) -> List[Dict]:
+    """
+    Scrape video URLs from Winchester VA civic web portal.
+    
+    Args:
+        url: The URL of the Winchester VA civic web portal
+        
+    Returns:
+        List of dictionaries containing video URLs and metadata
+    """
+    videos = []
+    
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        page = await browser.new_page()
+        await page.goto(url)
+        
+        # Wait for the page to load
+        await page.wait_for_load_state('networkidle')
+        
+        # Look for meeting links first
+        meeting_links = await page.query_selector_all("xpath=//a[contains(@href, 'meeting') or contains(@href, 'video')]")
+        
+        # Collect unique meeting URLs to visit
+        meeting_urls = []
+        for link in meeting_links:
+            try:
+                href = await link.get_attribute("href")
+                if href and href not in meeting_urls:
+                    # Make relative URLs absolute
+                    if href.startswith('/'):
+                        href = url.rstrip('/') + href
+                    meeting_urls.append(href)
+            except Exception as e:
+                print(f"Error collecting meeting URL: {e}")
+        
+        # Visit each meeting page to find videos
+        for meeting_url in meeting_urls[:5]:  # Limit to first 5 for testing
+            try:
+                await page.goto(meeting_url)
+                await page.wait_for_load_state('networkidle')
+                
+                # Look for video player elements or video links
+                video_elements = await page.query_selector_all(
+                    "xpath=//iframe[contains(@src, 'video') or contains(@src, 'youtube')] | "
+                    "//a[contains(@href, 'video') or contains(@href, '.mp4') or contains(@href, 'stream')] | "
+                    "//video"
+                )
+                
+                for video_element in video_elements:
+                    try:
+                        tag_name = await video_element.evaluate("el => el.tagName.toLowerCase()")
+                        
+                        video_url = None
+                        if tag_name == 'video':
+                            video_url = await video_element.get_attribute("src")
+                        elif tag_name == 'a':
+                            video_url = await video_element.get_attribute("href")
+                        elif tag_name == 'iframe':
+                            video_url = await video_element.get_attribute("src")
+                            
+                        if video_url:
+                            # Get meeting title if available
+                            title_element = await page.query_selector("xpath=//h1 | //h2 | //div[contains(@class, 'title')]")
+                            title = await title_element.inner_text() if title_element else "Unknown Meeting"
+                            
+                            # Get meeting date if available
+                            date_element = await page.query_selector("xpath=//span[contains(@class, 'date')] | //div[contains(@class, 'date')]")
+                            date = await date_element.inner_text() if date_element else "Unknown Date"
+                            
+                            # Make relative URLs absolute
+                            if video_url.startswith('/'):
+                                video_url = url.rstrip('/') + video_url
+                                
+                            videos.append({
+                                "url": video_url,
+                                "title": title.strip(),
+                                "date": date.strip(),
+                                "meeting_url": meeting_url,
+                                "source": "winchester"
+                            })
+                    except Exception as e:
+                        print(f"Error processing video element: {e}")
+            except Exception as e:
+                print(f"Error visiting meeting URL {meeting_url}: {e}")
+        
+        # If we didn't find videos from meeting pages, try searching directly on the main page
+        if not videos:
+            # Try to find direct video links or embeds on the main page
+            await page.goto(url)
+            await page.wait_for_load_state('networkidle')
+            
+            # Look for any video iframe, video tag, or link that might be a video
+            direct_video_elements = await page.query_selector_all(
+                "xpath=//iframe | //video | //a[contains(@href, 'video') or contains(@href, 'stream') or contains(@href, '.mp4')]"
+            )
+            
+            for element in direct_video_elements:
+                try:
+                    tag_name = await element.evaluate("el => el.tagName.toLowerCase()")
+                    
+                    video_url = None
+                    if tag_name in ['iframe', 'video']:
+                        video_url = await element.get_attribute("src")
+                    elif tag_name == 'a':
+                        video_url = await element.get_attribute("href")
+                        
+                    if video_url:
+                        # Try to get some context for the video
+                        title_element = await element.query_selector("xpath=./ancestor::div[contains(@class, 'item')]//*[contains(@class, 'title')] | ./following::*[contains(@class, 'title')][1]")
+                        title = await title_element.inner_text() if title_element else "Unknown"
+                        
+                        videos.append({
+                            "url": video_url,
+                            "title": title.strip(),
+                            "date": "Unknown",
+                            "source": "winchester"
+                        })
+                except Exception as e:
+                    print(f"Error processing direct video element: {e}")
+        
+        await browser.close()
+    
+    return videos
+
+
+if __name__ == "__main__":
+    # For testing this module individually
+    import json
+    
+    async def test():
+        results = await scrape_winchester("https://winchesterva.civicweb.net/portal/")
+        print(json.dumps(results, indent=2))
+    
+    asyncio.run(test())

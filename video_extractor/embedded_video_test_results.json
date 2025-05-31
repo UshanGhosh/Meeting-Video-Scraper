@@ -1,0 +1,78 @@
+{
+  "test_time": "2025-05-31 21:32:41",
+  "total_urls_tested": 3,
+  "total_downloadable_videos_found": 1,
+  "results": [
+    {
+      "original_url": "https://video.ibm.com/recorded/134312408",
+      "direct_downloadable": false,
+      "embedded_videos_found": [
+        "https://www.ibm.com/support/customer/csol/terms/?id=i126-7525",
+        "https://video.ibm.com/channel/kYg5ZKFMGYv",
+        "https://video.ibm.com/recorded/134268687",
+        "https://video.ibm.com/recorded/134372173",
+        "https://video.ibm.com/recorded/134291493",
+        "http:\\/\\/iphone-streaming.ustream.tv\\/uhls\\/390917\\/streams\\/live\\/iphone\\/playlist.m3u8",
+        "https://video.ibm.com/copyright-policy",
+        "https://video.ibm.com/recorded/134291656",
+        "https://video.ibm.com/recorded/134351300",
+        "https://video.ibm.com/acceptableusepolicy",
+        "https://video.ibm.com/recorded/134312252",
+        "https://video.ibm.com/recorded/134330507",
+        "https://video.ibm.com/recorded/134330666",
+        "https://video.ibm.com/recorded/134372242",
+        "https://video.ibm.com/recorded/134312408",
+        "https://video.ibm.com/contact-us",
+        "https://video.ibm.com/recorded/134273209",
+        "https://video.ibm.com/channel/lafayette-consolidated-government-council-meeting"
+      ],
+      "downloadable_videos": [
+        "https://video.ibm.com/recorded/134273209"
+      ],
+      "errors": [
+        "Direct URL error: ERROR: [ustream] 134312408: Requested format is not available. Use --list-formats for a list of available formats",
+        "Embedded URL error (https://www.ibm.com/support/customer/csol/terms/?id=i126-7525): ERROR: Unsupported URL: https://www.ibm.com/support/customer/csol/terms/?id=i126-7525",
+        "Embedded URL error (https://video.ibm.com/channel/kYg5ZKFMGYv): ERROR: [ustream] 23934569: Unable to extract content video IDs; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/recorded/134268687): ERROR: [ustream] 134268687: Requested format is not available. Use --list-formats for a list of available formats",
+        "Embedded URL error (https://video.ibm.com/recorded/134372173): ERROR: [ustream] 134372173: Requested format is not available. Use --list-formats for a list of available formats",
+        "Embedded URL error (https://video.ibm.com/recorded/134291493): ERROR: [ustream] 134291493: Requested format is not available. Use --list-formats for a list of available formats",
+        "Embedded URL error (http:\\/\\/iphone-streaming.ustream.tv\\/uhls\\/390917\\/streams\\/live\\/iphone\\/playlist.m3u8): Invalid URL 'http:///%5C/%5C/iphone-streaming.ustream.tv%5C/uhls%5C/390917%5C/streams%5C/live%5C/iphone%5C/playlist.m3u8': No host supplied",
+        "Embedded URL error (https://video.ibm.com/copyright-policy): ERROR: Unsupported URL: https://video.ibm.com/copyright-policy",
+        "Embedded URL error (https://video.ibm.com/recorded/134291656): ERROR: [ustream] 134291656: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/recorded/134351300): ERROR: [ustream] 134351300: Requested format is not available. Use --list-formats for a list of available formats",
+        "Embedded URL error (https://video.ibm.com/acceptableusepolicy): ERROR: Unsupported URL: https://video.ibm.com/acceptableusepolicy",
+        "Embedded URL error (https://video.ibm.com/recorded/134312252): ERROR: [ustream] 134312252: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/recorded/134330507): ERROR: [ustream] 134330507: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/recorded/134330666): ERROR: [ustream] 134330666: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/recorded/134372242): ERROR: [ustream] 134372242: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/recorded/134312408): ERROR: [ustream] 134312408: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+        "Embedded URL error (https://video.ibm.com/contact-us): ERROR: Unsupported URL: https://video.ibm.com/contact-us",
+        "Embedded URL error (https://video.ibm.com/channel/lafayette-consolidated-government-council-meeting): ERROR: [ustream] 390917: Unable to extract content video IDs; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      ]
+    },
+    {
+      "original_url": "https://monticello.viebit.com/watch?hash=HCZTN4vuyJ91LlrS",
+      "direct_downloadable": false,
+      "embedded_videos_found": [
+        "https://monticello.viebit.com/pc20250401,master.m3u8?fmp4=1"
+      ],
+      "downloadable_videos": [],
+      "errors": [
+        "Direct URL error: ERROR: Unsupported URL: https://monticello.viebit.com/watch?hash=HCZTN4vuyJ91LlrS",
+        "Embedded URL error (https://monticello.viebit.com/pc20250401,master.m3u8?fmp4=1): ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+      ]
+    },
+    {
+      "original_url": "https://play.champds.com/guilderlandny/event/431",
+      "direct_downloadable": false,
+      "embedded_videos_found": [
+        "https://play.champds.com/guilderlandny/event/431"
+      ],
+      "downloadable_videos": [],
+      "errors": [
+        "Direct URL error: ERROR: Unsupported URL: https://play.champds.com/guilderlandny/event/431",
+        "Embedded URL error (https://play.champds.com/guilderlandny/event/431): ERROR: Unsupported URL: https://play.champds.com/guilderlandny/event/431"
+      ]
+    }
+  ]
+}

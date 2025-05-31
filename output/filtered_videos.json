@@ -1,0 +1,48 @@
+[
+  {
+    "base_url": "https://www.youtube.com/@SLCLiveMeetings/streams",
+    "medias": [
+      {
+        "url": "https://www.youtube.com/watch?v=nvmQC-sHrnM",
+        "title": "Salt Lake City Formal Meeting - 11/12/2024",
+        "date": "2024-11-12",
+        "source_type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tX09BJTkj48",
+        "title": "Salt Lake City Planning Division Appeals Hearing November 21, 2024",
+        "date": "2024-11-21",
+        "source_type": "video"
+      }
+    ]
+  },
+  {
+    "base_url": "https://www.lansdale.org/CivicMedia?CID=2024-Council-Meetings-26",
+    "medias": [
+      {
+        "url": "https://www.lansdale.org/CivicMedia.aspx?VID=Work-Session-1242024-262",
+        "title": "2024 Council Meetings",
+        "date": "2024-12-05",
+        "source_type": "video"
+      },
+      {
+        "url": "https://www.lansdale.org/CivicMedia.aspx?VID=Work-Session-1242024-262#player",
+        "title": "2024 Council Meetings",
+        "date": "2024-12-05",
+        "source_type": "video"
+      },
+      {
+        "url": "https://www.lansdale.org/CivicMedia.aspx?VID=November-20-Business-Meeting-260#player",
+        "title": "2024 Council Meetings",
+        "date": "2024-11-21",
+        "source_type": "video"
+      },
+      {
+        "url": "https://www.lansdale.org/CivicMedia.aspx?VID=November-6-Work-Session-259#player",
+        "title": "2024 Council Meetings",
+        "date": "2024-11-12",
+        "source_type": "video"
+      }
+    ]
+  }
+]

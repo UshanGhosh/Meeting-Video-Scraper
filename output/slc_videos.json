@@ -1,0 +1,341 @@
+{
+  "base_url": "https://www.youtube.com/@SLCLiveMeetings/streams",
+  "medias": [
+    {
+      "url": "https://www.youtube.com/watch?v=tesHDQKXv_s",
+      "title": "Salt Lake City Council Work Session - 05/29/2025",
+      "date": "2025-05-29",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SpjwumLsejM",
+      "title": "Planning Commission Meeting -- 05/28/2025",
+      "date": "2025-05-28",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jsh_2qd-tV4",
+      "title": "Salt Lake City Council Work Session - 05/22/2025",
+      "date": "2025-05-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mkzvlc8POwg",
+      "title": "Salt Lake City LBA, CRA, and City Council Formal Meeting - 05/20/2025",
+      "date": "2025-05-20",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pGUJbpAsCbM",
+      "title": "Salt Lake City Council Work Session - 05/20/2025",
+      "date": "2025-05-20",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hVSzRGdbBC0",
+      "title": "Salt Lake City Community Reinvestment Agency (CRA) Meeting - 05/20/2025",
+      "date": "2025-05-20",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vYTJ7GFDQ4Y",
+      "title": "Planning Commission Meeting -- 05/14/2025",
+      "date": "2025-05-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YqqzdPJnDgE",
+      "title": "Salt Lake City LBA, CRA, and City Council Formal Meeting - 05/06/2025",
+      "date": "2025-05-06",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SdNuJ5qX77Y",
+      "title": "Salt Lake City Council Work Session - Date 05/06/2025",
+      "date": "2025-05-06",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vqILuC7zFhE",
+      "title": "Planning Commission Meeting -- 04/23/2025",
+      "date": "2025-04-23",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fztu2LRRrQ0",
+      "title": "Salt Lake City LBA, CRA, and City Council Formal Meeting - 04/15/2025",
+      "date": "2025-04-15",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5GVFt6PN1g4",
+      "title": "Salt Lake City Council Work Session - 04/15/2025",
+      "date": "2025-04-15",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cjYd95B0DI4",
+      "title": "Planning Commission Meeting -- 04/09/2025",
+      "date": "2025-04-09",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JD5it7foxiA",
+      "title": "Salt Lake City Formal Meeting - 04/08/2025",
+      "date": "2025-04-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=K7mLOfKXZTI",
+      "title": "Salt Lake City Council Work Session - 04/08/2025",
+      "date": "2025-04-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=md4Z0G7AlLI",
+      "title": "Salt Lake City Community Reinvestment Agency (CRA) Meeting - 04/08/2025",
+      "date": "2025-04-08",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-s6hs8OfZTk&pp=0gcJCbAJAYcqIYzv",
+      "title": "Historical Landmark Commission Meeting -- 04/03/2025",
+      "date": "2025-04-03",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0UpRJguFC_8",
+      "title": "Historical Landmark Commission Meeting -- 04/03/2025",
+      "date": "2025-04-03",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QUf2iHd0HFg",
+      "title": "Salt Lake City Formal Meeting - 4/1/2025",
+      "date": "2025-04-01",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Yt-0GlbeXNM",
+      "title": "Salt Lake City Council Work Session - 04/01/2025",
+      "date": "2025-04-01",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HpmzTY0slNk",
+      "title": "Planning Commission Meeting -- 03/26/2025",
+      "date": "2025-03-26",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mlpgDBA2zJc",
+      "title": "Salt Lake City Formal Meeting - 03/25/2025",
+      "date": "2025-03-25",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B1PRK1wFS9s",
+      "title": "Salt Lake City Council Work Session - 03/18/2025",
+      "date": "2025-03-18",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v-HnsUTIlnE",
+      "title": "Salt Lake City Community Reinvestment Agency (CRA) Meeting- 03/18/2025",
+      "date": "2025-03-18",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FVZDiLlsyFg",
+      "title": "Planning Commission Meeting -- 03/12/2025",
+      "date": "2025-03-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a9KiplzWhI0",
+      "title": "Salt Lake City Formal Meeting - 03/04/2025",
+      "date": "2025-03-04",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QqVzZrqivQI",
+      "title": "Salt Lake City Council Work Session - 03/04/2025",
+      "date": "2025-03-04",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AvMHTEJjxXs",
+      "title": "Salt Lake City Formal Meeting - February 18, 2025",
+      "date": "2025-02-18",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TBBI8vli6CA",
+      "title": "Salt Lake City Planning Division Appeals Hearing May 22, 2025",
+      "date": "2025-05-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lB8G4gu_OCk",
+      "title": "Salt Lake City Council Work Session - May 13, 2025",
+      "date": "2025-05-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O8ObRy77lZk",
+      "title": "Salt Lake City Community Reinvestment Agency (CRA) Meeting - 05/13/2025",
+      "date": "2025-05-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wca6-9BQFCU",
+      "title": "Salt Lake City Council advice and consent Brian Redd, for police chief for the SLCPD",
+      "date": "2025-05-31",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jaHY28o7Wdw",
+      "title": "Salt Lake City Council Work Session - 03/25/2025",
+      "date": "2025-03-25",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GpWlPfN57sg",
+      "title": "Salt Lake City Limited Community Reinvestment Agency (CRA) Meeting - 03/25/2025",
+      "date": "2025-03-25",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RMt0t01coGY",
+      "title": "Salt Lake City Planning Division Appeals Hearing March 20, 2025",
+      "date": "2025-03-20",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MNr8ycfumKM",
+      "title": "Salt Lake City Planning Division Appeals Hearing February 20, 2025",
+      "date": "2025-02-20",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3BN6rH0iJuQ",
+      "title": "Salt Lake City Council Work Session - 02/04/2025",
+      "date": "2025-02-04",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4QbYDI3eeQ0",
+      "title": "Historical Landmarks Commission Meeting -- 02/06/2025",
+      "date": "2025-02-06",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=btuY3dWRT50",
+      "title": "Planning Commission Meeting - 01/22/2025",
+      "date": "2025-01-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MM4qQPyP_5E",
+      "title": "Salt Lake City Planning Division Appeals Hearing - January 16, 2025",
+      "date": "2025-01-16",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nvmQC-sHrnM",
+      "title": "Salt Lake City Formal Meeting - 11/12/2024",
+      "date": "2024-11-12",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tX09BJTkj48",
+      "title": "Salt Lake City Planning Division Appeals Hearing November 21, 2024",
+      "date": "2024-11-21",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4zT9RMpHE60",
+      "title": "Salt Lake City Planning Division Appeals Hearing - August 15, 2024",
+      "date": "2024-08-15",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ItSxVWaYZVc",
+      "title": "Salt Lake City Council Work Session - 09/17/2024",
+      "date": "2024-09-17",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=10XVD1Cz7S4",
+      "title": "Salt Lake City Council Work Session - 09/03/2024",
+      "date": "2024-09-03",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pRY2IQhD6IM",
+      "title": "Salt Lake City Council Truth-in-Taxation - 08/13/2024",
+      "date": "2024-08-13",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PvCZtJ3roto",
+      "title": "Salt Lake City Planning Division Appeals Hearing July 18, 2024",
+      "date": "2024-07-18",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cSqORjLM4_4",
+      "title": "Salt Lake City Redevelopment Agency (RDA) Meeting - 06/11/2024",
+      "date": "2024-06-11",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rvxpNd5W4oU",
+      "title": "Salt Lake City Planning Division Appeals Hearing May 16, 2024",
+      "date": "2024-05-16",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sjm7mjKQKjI",
+      "title": "Salt Lake City Council Work Session - 05/14/2024",
+      "date": "2024-05-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AJE2J5TvR8c",
+      "title": "Mayor Wilson Memorial Bell Ringing 5/17/2024",
+      "date": "2024-05-17",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KpR72kmPRho",
+      "title": "Salt Lake City Redevelopment Agency (RDA) Meeting - 05/14/2024",
+      "date": "2024-05-14",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4DuwY-onihc",
+      "title": "Salt Lake City LBA, RDA, and City Council Formal Meeting - 05/07/2024",
+      "date": "2024-05-07",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TqFEz8qVDdw",
+      "title": "Salt Lake City Planning Division Administrative Hearing March 28, 2024",
+      "date": "2024-03-28",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FCCEkgoOSRU",
+      "title": "Salt Lake City Planning Division Administrative Hearing February 22, 2024",
+      "date": "2024-02-22",
+      "source_type": "video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MBSF3f7xPz4",
+      "title": "Salt Lake City Planning Division Appeals Hearing April 18, 2024",
+      "date": "2024-04-18",
+      "source_type": "video"
+    }
+  ]
+}

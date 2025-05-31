@@ -1,0 +1,51 @@
+{
+  "test_time": "2025-05-31 21:35:00",
+  "total_urls_tested": 3,
+  "total_downloadable_videos_found": 4,
+  "results": [
+    {
+      "original_url": "https://video.ibm.com/recorded/134312408",
+      "direct_downloadable": false,
+      "embedded_videos_found": [
+        "https://video.ibm.com/embed/recorded/134312408",
+        "https://video.ibm.com/api/v1/channel/vod/134312408/source.mp4"
+      ],
+      "downloadable_videos": [
+        "https://video.ibm.com/api/v1/channel/vod/134312408/source.mp4"
+      ],
+      "errors": [
+        "Direct URL error: ERROR: Unsupported URL: https://video.ibm.com/recorded/134312408"
+      ]
+    },
+    {
+      "original_url": "https://monticello.viebit.com/watch?hash=HCZTN4vuyJ91LlrS",
+      "direct_downloadable": false,
+      "embedded_videos_found": [
+        "https://monticello.viebit.com/player/hls/HCZTN4vuyJ91LlrS.m3u8",
+        "https://monticello.viebit.com/embed?hash=HCZTN4vuyJ91LlrS",
+        "https://monticello.viebit.com/api/v1/videos/HCZTN4vuyJ91LlrS/stream.mp4"
+      ],
+      "downloadable_videos": [
+        "https://monticello.viebit.com/player/hls/HCZTN4vuyJ91LlrS.m3u8",
+        "https://monticello.viebit.com/api/v1/videos/HCZTN4vuyJ91LlrS/stream.mp4"
+      ],
+      "errors": [
+        "Direct URL error: ERROR: Unsupported URL: https://monticello.viebit.com/watch?hash=HCZTN4vuyJ91LlrS"
+      ]
+    },
+    {
+      "original_url": "https://play.champds.com/guilderlandny/event/431",
+      "direct_downloadable": false,
+      "embedded_videos_found": [
+        "https://play.champds.com/guilderlandny/video/event/431.mp4",
+        "https://play.champds.com/embed/guilderlandny/event/431"
+      ],
+      "downloadable_videos": [
+        "https://play.champds.com/guilderlandny/video/event/431.mp4"
+      ],
+      "errors": [
+        "Direct URL error: ERROR: Unsupported URL: https://play.champds.com/guilderlandny/event/431"
+      ]
+    }
+  ]
+}

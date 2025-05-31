@@ -1,0 +1,60 @@
+{
+  "downloadable_urls": [
+    "https://dallastx.new.swagit.com/videos/320946/download",
+    "https://multnomah.granicus.com/MediaPlayer.php?view_id=3&clip_id=3097"
+  ],
+  "not_downloadable_urls": [
+    "https://www.zoomgov.com/rec/share/vCZnQM5bgMzY7_n4lbQXYnVqsvPj49Ce-R0hMjMFPyG4FUC1HbSyQAZ9uPpRKDvV._6ZMrf7BXZzx6_RK?startTime=1709655569000",
+    "https://snohomish.legistar.com/Video.aspx?Mode=Granicus&ID1=9188&Mode2=Video",
+    "https://traviscotx.portal.civicclerk.com/event/2583/media",
+    "https://legistar.council.nyc.gov/Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8yNDA2MDQtMTAxMzU0Lm1wNA%3d%3d&Mode2=Video",
+    "https://video.ibm.com/recorded/134312408",
+    "https://cityofalhambraorg-my.sharepoint.com/:v:/g/personal/lmyles_alhambraca_gov/ETs6K1euPsBClaWtczJXl-gB47R9yoz9o9FJYZuEY0KOjA?e=7B41Fy",
+    "https://audiomack.com/pemberton-twp-planningzoning-board-meetings/song/678668c3069f2"
+  ],
+  "results_details": [
+    {
+      "url": "https://dallastx.new.swagit.com/videos/320946/download",
+      "is_downloadable": true
+    },
+    {
+      "url": "https://www.zoomgov.com/rec/share/vCZnQM5bgMzY7_n4lbQXYnVqsvPj49Ce-R0hMjMFPyG4FUC1HbSyQAZ9uPpRKDvV._6ZMrf7BXZzx6_RK?startTime=1709655569000",
+      "is_downloadable": false,
+      "error": "ERROR: Unsupported URL: https://www.zoomgov.com/rec/share/vCZnQM5bgMzY7_n4lbQXYnVqsvPj49Ce-R0hMjMFPyG4FUC1HbSyQAZ9uPpRKDvV._6ZMrf7BXZzx6_RK?startTime=1709655569000"
+    },
+    {
+      "url": "https://snohomish.legistar.com/Video.aspx?Mode=Granicus&ID1=9188&Mode2=Video",
+      "is_downloadable": false,
+      "error": "ERROR: Unsupported URL: https://snohomish.granicus.com/MediaPlayer.php?view_id=18&clip_id=9188"
+    },
+    {
+      "url": "https://multnomah.granicus.com/MediaPlayer.php?view_id=3&clip_id=3097",
+      "is_downloadable": true
+    },
+    {
+      "url": "https://traviscotx.portal.civicclerk.com/event/2583/media",
+      "is_downloadable": false,
+      "error": "ERROR: Unsupported URL: https://traviscotx.portal.civicclerk.com/event/2583/media"
+    },
+    {
+      "url": "https://legistar.council.nyc.gov/Video.aspx?Mode=Auto&URL=aHR0cHM6Ly9jb3VuY2lsbnljLnZpZWJpdC5jb20vdm9kLz9zPXRydWUmdj1OWUNDLVBWLTI1MC0xNF8yNDA2MDQtMTAxMzU0Lm1wNA%3d%3d&Mode2=Video",
+      "is_downloadable": false,
+      "error": "ERROR: Unsupported URL: https://councilnyc.viebit.com/embed/vod?v=H65FZ8yabdkv2X3N&s=true&d=false"
+    },
+    {
+      "url": "https://video.ibm.com/recorded/134312408",
+      "is_downloadable": false,
+      "error": "ERROR: [ustream] 134312408: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    },
+    {
+      "url": "https://cityofalhambraorg-my.sharepoint.com/:v:/g/personal/lmyles_alhambraca_gov/ETs6K1euPsBClaWtczJXl-gB47R9yoz9o9FJYZuEY0KOjA?e=7B41Fy",
+      "is_downloadable": false,
+      "error": "ERROR: Unsupported URL: https://cityofalhambraorg-my.sharepoint.com/personal/lmyles_alhambraca_gov/_layouts/15/stream.aspx?id=%2Fpersonal%2Flmyles_alhambraca_gov%2FDocuments%2FCity%20Council%20Videos%2F3-13-25-Strategic%20Plan%20Video.mp4&ga=1"
+    },
+    {
+      "url": "https://audiomack.com/pemberton-twp-planningzoning-board-meetings/song/678668c3069f2",
+      "is_downloadable": false,
+      "error": "ERROR: [audiomack] pemberton-twp-planningzoning-board-meetings/song/678668c3069f2: pemberton-twp-planningzoning-board-meetings/678668c3069f2: Failed to parse JSON (caused by JSONDecodeError(\"Expecting value in '': line 1 column 1 (char 0)\")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+    }
+  ]
+}
