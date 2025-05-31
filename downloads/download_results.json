@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-05-31 22:19:54",
+  "urls_total": 2,
+  "successful": 0,
+  "failed": 2,
+  "total_time": 0,
+  "total_size": 0,
+  "average_time": 0,
+  "used_aria2c": true,
+  "detailed_results": [
+    {
+      "url": "https://www.youtube.com/watch?v=nvmQC-sHrnM",
+      "success": false,
+      "error": "\u001b[0;31mERROR:\u001b[0m aria2c exited with code 22",
+      "used_aria2c": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tX09BJTkj48",
+      "success": false,
+      "error": "\u001b[0;31mERROR:\u001b[0m aria2c exited with code 22",
+      "used_aria2c": true
+    }
+  ]
+}
