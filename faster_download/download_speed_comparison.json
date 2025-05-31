@@ -1,0 +1,27 @@
+{
+  "test_time": "2025-05-31 22:55:35",
+  "urls_tested": 2,
+  "successful_comparisons": 0,
+  "average_speedup": 0,
+  "average_percentage_faster": 0,
+  "detailed_results": [
+    {
+      "url": "https://www.youtube.com/watch?v=nvmQC-sHrnM",
+      "yt_dlp": {
+        "success": false
+      },
+      "aria2c": {
+        "success": false
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tX09BJTkj48",
+      "yt_dlp": {
+        "success": false
+      },
+      "aria2c": {
+        "success": false
+      }
+    }
+  ]
+}
