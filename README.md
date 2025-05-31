@@ -1,6 +1,5 @@
 # Meeting Video Extractor and Fast Downloader
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 
 A comprehensive solution for extracting, verifying, and fast-downloading video content from local government meeting pages.
@@ -39,7 +38,7 @@ playwright install
 
 ```bash
 # Run the main scraper with date filtering
-python main.py --start-date "2023-01-01" --end-date "2023-12-31" --output output/filtered_videos.json
+python main.py --start-date "2024-11-01" --end-date "2024-12-31" --output output/filtered_videos.json
 ```
 
 This process:
