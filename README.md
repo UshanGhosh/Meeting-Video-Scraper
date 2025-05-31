@@ -126,7 +126,7 @@ python extract_embedded_videos.py --url "https://example.com/meeting-page"
 Download a specific video URL:
 
 ```bash
-cd fast_downloader
+cd faster_download
 python fast_downloader.py --url "https://example.com/video.mp4" --output-dir downloads
 ```
 
@@ -149,36 +149,6 @@ The fast downloader uses optimized aria2c parameters to significantly improve do
 - **Batch processing**: Handles multiple videos sequentially
 - **Comprehensive logging**: Records download times and performance metrics
 
-## Download Speed Improvements
-
-Using aria2c as an external downloader provides significant speed improvements:
-
-| Network Type | Average Speedup | Time Saved |
-|--------------|----------------|------------|
-| Fast Fiber   | 2.8x faster    | ~70% time reduction |
-| Cable/DSL    | 3.4x faster    | ~72% time reduction |
-| Mobile/LTE   | 4.5x faster    | ~77% time reduction |
-
-The benefits are particularly significant for:
-- Larger files (1GB+): up to 5.5x faster
-- Slower or unstable connections: up to 6x faster
-
-## Example Output
-
-When running the speed comparison, you'll see output similar to this:
-
-```
-📊 DOWNLOAD SPEED COMPARISON SUMMARY (SIMULATION) 📊
-================================================================================
-🔹 Network: Cable/DSL Connection
-🔹 Base download speed: 30.00 Mbps (3.75 MB/s)
-🔹 Videos simulated: 5
-🔹 Total download time (standard yt-dlp): 797.70 seconds
-🔹 Total download time (yt-dlp + aria2c): 225.01 seconds
-🔹 Total time saved: 572.69 seconds
-🔹 Overall speedup: 3.55x faster
-🔹 Overall percentage improvement: 254.5%
-```
 
 ## Troubleshooting
 
@@ -188,9 +158,13 @@ When running the speed comparison, you'll see output similar to this:
 - If aria2c is not installed, the downloader will fall back to standard yt-dlp
 - Some video platforms may use streaming formats that don't benefit from multi-connection downloads
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Demo Video
+
+[![Meeting Video Extractor Demo](https://img.youtube.com/vi/DA5Q_00pqL8/0.jpg)](https://www.youtube.com/watch?v=DA5Q_00pqL8)
+
+*Click on the image above to watch the demonstration video*
+
 
 ## Contributing
 
