@@ -1,0 +1,186 @@
+{
+  "network_type": "cable",
+  "network_name": "Cable/DSL Connection",
+  "base_speed_mbps": 30,
+  "aria2c_improvement_factor": 3.5,
+  "total_videos": 5,
+  "total_standard_time": 876.607271071667,
+  "total_aria2c_time": 224.81936993380742,
+  "total_speedup": 3.899162564728131,
+  "total_percentage_faster": 289.9162564728131,
+  "average_speedup": 3.92204325956612,
+  "average_percentage_faster": 292.204325956612,
+  "detailed_results": [
+    {
+      "video": {
+        "title": "City Council Meeting (HD)",
+        "url": "https://example.com/videos/council_meeting_hd.mp4",
+        "size_mb": 850,
+        "quality": "1080p"
+      },
+      "yt_dlp": {
+        "title": "City Council Meeting (HD)",
+        "url": "https://example.com/videos/council_meeting_hd.mp4",
+        "quality": "1080p",
+        "size_mb": 850,
+        "size_formatted": "850.00 MB",
+        "download_speed_mbps": 30.441801145938395,
+        "download_speed_formatted": "30.44 Mbps (3.81 MB/s)",
+        "download_time_seconds": 227.3770586503969,
+        "download_time_formatted": "227.38 seconds",
+        "used_aria2c": false
+      },
+      "aria2c": {
+        "title": "City Council Meeting (HD)",
+        "url": "https://example.com/videos/council_meeting_hd.mp4",
+        "quality": "1080p",
+        "size_mb": 850,
+        "size_formatted": "850.00 MB",
+        "download_speed_mbps": 143.58682552525258,
+        "download_speed_formatted": "143.59 Mbps (17.95 MB/s)",
+        "download_time_seconds": 49.85810527968031,
+        "download_time_formatted": "49.86 seconds",
+        "used_aria2c": true
+      },
+      "speedup": 4.560483343177995,
+      "percentage_faster": 356.0483343177995
+    },
+    {
+      "video": {
+        "title": "Public Hearing on Zoning (SD)",
+        "url": "https://example.com/videos/public_hearing.mp4",
+        "size_mb": 320,
+        "quality": "720p"
+      },
+      "yt_dlp": {
+        "title": "Public Hearing on Zoning (SD)",
+        "url": "https://example.com/videos/public_hearing.mp4",
+        "quality": "720p",
+        "size_mb": 320,
+        "size_formatted": "320.00 MB",
+        "download_speed_mbps": 28.789879115700415,
+        "download_speed_formatted": "28.79 Mbps (3.60 MB/s)",
+        "download_time_seconds": 92.92013716736716,
+        "download_time_formatted": "92.92 seconds",
+        "used_aria2c": false
+      },
+      "aria2c": {
+        "title": "Public Hearing on Zoning (SD)",
+        "url": "https://example.com/videos/public_hearing.mp4",
+        "quality": "720p",
+        "size_mb": 320,
+        "size_formatted": "320.00 MB",
+        "download_speed_mbps": 117.75022412693313,
+        "download_speed_formatted": "117.75 Mbps (14.72 MB/s)",
+        "download_time_seconds": 24.240935263446758,
+        "download_time_formatted": "24.24 seconds",
+        "used_aria2c": true
+      },
+      "speedup": 3.833191094218329,
+      "percentage_faster": 283.3191094218329
+    },
+    {
+      "video": {
+        "title": "Budget Committee Workshop",
+        "url": "https://example.com/videos/budget_workshop.mp4",
+        "size_mb": 540,
+        "quality": "720p"
+      },
+      "yt_dlp": {
+        "title": "Budget Committee Workshop",
+        "url": "https://example.com/videos/budget_workshop.mp4",
+        "quality": "720p",
+        "size_mb": 540,
+        "size_formatted": "540.00 MB",
+        "download_speed_mbps": 25.744352838552622,
+        "download_speed_formatted": "25.74 Mbps (3.22 MB/s)",
+        "download_time_seconds": 171.8037908776143,
+        "download_time_formatted": "171.80 seconds",
+        "used_aria2c": false
+      },
+      "aria2c": {
+        "title": "Budget Committee Workshop",
+        "url": "https://example.com/videos/budget_workshop.mp4",
+        "quality": "720p",
+        "size_mb": 540,
+        "size_formatted": "540.00 MB",
+        "download_speed_mbps": 118.76238863674715,
+        "download_speed_formatted": "118.76 Mbps (14.85 MB/s)",
+        "download_time_seconds": 38.87515251746391,
+        "download_time_formatted": "38.88 seconds",
+        "used_aria2c": true
+      },
+      "speedup": 4.4193727806067065,
+      "percentage_faster": 341.9372780606706
+    },
+    {
+      "video": {
+        "title": "Planning Commission (Full Session)",
+        "url": "https://example.com/videos/planning_full.mp4",
+        "size_mb": 1240,
+        "quality": "1080p"
+      },
+      "yt_dlp": {
+        "title": "Planning Commission (Full Session)",
+        "url": "https://example.com/videos/planning_full.mp4",
+        "quality": "1080p",
+        "size_mb": 1240,
+        "size_formatted": "1.24 GB",
+        "download_speed_mbps": 31.06181837265398,
+        "download_speed_formatted": "31.06 Mbps (3.88 MB/s)",
+        "download_time_seconds": 323.36314484194236,
+        "download_time_formatted": "323.36 seconds",
+        "used_aria2c": false
+      },
+      "aria2c": {
+        "title": "Planning Commission (Full Session)",
+        "url": "https://example.com/videos/planning_full.mp4",
+        "quality": "1080p",
+        "size_mb": 1240,
+        "size_formatted": "1.24 GB",
+        "download_speed_mbps": 108.96302425163219,
+        "download_speed_formatted": "108.96 Mbps (13.62 MB/s)",
+        "download_time_seconds": 93.54005756201656,
+        "download_time_formatted": "93.54 seconds",
+        "used_aria2c": true
+      },
+      "speedup": 3.4569483200024154,
+      "percentage_faster": 245.69483200024155
+    },
+    {
+      "video": {
+        "title": "Mayor's Press Conference",
+        "url": "https://example.com/videos/mayor_press.mp4",
+        "size_mb": 180,
+        "quality": "720p"
+      },
+      "yt_dlp": {
+        "title": "Mayor's Press Conference",
+        "url": "https://example.com/videos/mayor_press.mp4",
+        "quality": "720p",
+        "size_mb": 180,
+        "size_formatted": "180.00 MB",
+        "download_speed_mbps": 25.199875465968752,
+        "download_speed_formatted": "25.20 Mbps (3.15 MB/s)",
+        "download_time_seconds": 61.143139534346204,
+        "download_time_formatted": "61.14 seconds",
+        "used_aria2c": false
+      },
+      "aria2c": {
+        "title": "Mayor's Press Conference",
+        "url": "https://example.com/videos/mayor_press.mp4",
+        "quality": "720p",
+        "size_mb": 180,
+        "size_formatted": "180.00 MB",
+        "download_speed_mbps": 91.10972031571956,
+        "download_speed_formatted": "91.11 Mbps (11.39 MB/s)",
+        "download_time_seconds": 18.30511931119989,
+        "download_time_formatted": "18.31 seconds",
+        "used_aria2c": true
+      },
+      "speedup": 3.3402207598251548,
+      "percentage_faster": 234.02207598251547
+    }
+  ],
+  "timestamp": "2025-05-31 22:55:52"
+}

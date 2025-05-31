@@ -2,7 +2,7 @@
 playwright==1.38.0
 pytest-playwright==0.4.2
 beautifulsoup4>=4.9.3
-requests>=2.25.1
+requests>=2.28.1
 
 # Video extraction and downloading
 yt-dlp>=2023.3.4
