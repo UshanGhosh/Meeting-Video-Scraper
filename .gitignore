@@ -46,3 +46,4 @@ fast_downloader/downloads/
 node_modules/
 playwright-report/
 test-results/
+fast_downloader/
